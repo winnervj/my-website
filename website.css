@@ -1,0 +1,12 @@
+.heading{
+    font-family: "sans-serif";
+    font-weight: bold;
+}
+.button{
+    color: white;
+    border-radius: 10px;
+    background-color: brown ;
+    border-style: none;
+    font-size: 30px;
+    padding: 10px;
+}
